@@ -1,0 +1,50 @@
+
+*{
+	background-color: honeydew;
+
+}
+.flex{
+	display: flex;
+	background-color: palevioletred;
+	padding: 20px;
+	margin: 5%;
+
+}
+
+}
+
+.images{
+display: block;
+align-items: center;
+}
+
+figcaption{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	text-transform: capitalize;
+}
+
+h2{
+	text-align: center;
+}
+
+/* Mobible base style*/
+
+*{
+	box-sizing: border-box;
+}
+
+body,
+html {
+	font-size: 16px;
+	font-family: monospace;, serif;
+}
+
+body{
+	background-color: honeydew;
+	margin: 10px;
+
+/* The desktop style*/
